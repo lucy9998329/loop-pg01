@@ -1,0 +1,8 @@
+C:\Users\9998329\desktop\loops-pg01\bin\Debug\netcoreapp1.1\loops-pg01.deps.json
+C:\Users\9998329\desktop\loops-pg01\bin\Debug\netcoreapp1.1\loops-pg01.runtimeconfig.json
+C:\Users\9998329\desktop\loops-pg01\bin\Debug\netcoreapp1.1\loops-pg01.runtimeconfig.dev.json
+C:\Users\9998329\desktop\loops-pg01\bin\Debug\netcoreapp1.1\loops-pg01.dll
+C:\Users\9998329\desktop\loops-pg01\bin\Debug\netcoreapp1.1\loops-pg01.pdb
+C:\Users\9998329\desktop\loops-pg01\obj\Debug\netcoreapp1.1\loops-pg01.AssemblyInfo.cs
+C:\Users\9998329\desktop\loops-pg01\obj\Debug\netcoreapp1.1\loops-pg01.dll
+C:\Users\9998329\desktop\loops-pg01\obj\Debug\netcoreapp1.1\loops-pg01.pdb
